@@ -1,0 +1,48 @@
+body{
+    overflow-x: hidden;
+    font-family: 'roboto', sans-serif;
+}
+header{
+    background-color: #000;
+    height:600px;
+}
+nav{
+    font-size: 15px;
+    float: right;
+    margin: 20px;
+}
+
+a{
+   color: gold;
+   padding: 20px;
+   text-decoration: none;
+
+}
+a:hover{
+    background-color:gold;
+    color:#fff;
+
+}
+.top{
+    margin:0 auto;
+    margin-top:200px;
+    width:1000px;
+    text-align: center;
+    font-size:18px;
+    padding:15px;
+}
+h1{
+    color: gold;
+
+}
+.container{
+    margin:0 auto;
+    width: 1000px;
+
+}
+#about{
+    margin-top: 40px;
+}
+h2{
+    color: purple;  
+}
